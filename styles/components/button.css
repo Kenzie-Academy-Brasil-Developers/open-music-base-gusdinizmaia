@@ -1,0 +1,28 @@
+button{
+    color: var(--color-grey-1);
+    background-color: var(--color-grey-8);
+    border: 1.5px solid var(--color-grey-8);
+    padding: 12px 6px;
+    font-size: var(--font-3);
+    border-radius: var(--radius-1);
+}
+
+.button__genders:hover{
+    color: var(--color-grey-8);
+    background-color: var(--color-grey-1);
+    border: 1.5px solid var(--color-grey-1);
+}
+.button__products{
+    color: var(--color-grey-2);
+    background-color: var(--color-grey-7);
+    border: 1.5px solid var(--color-grey-7);
+    position: absolute;
+    bottom: 8px;
+    right: 15px;
+}
+
+.material-symbols-outlined{
+    color: var(--color-grey-0);
+    right: 0;
+    top: 0;
+}
